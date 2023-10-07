@@ -1,0 +1,11 @@
+.border-danger{
+    border-color: #a40431ff !important;
+}
+
+.border-warning{
+    border-color: #d7b369ff !important;
+}
+
+.btn-danger{
+    --bs-btn-bg: #a40431ff !important;
+}
